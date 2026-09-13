@@ -17,7 +17,7 @@ I'm an aspiring digital professional focused on creating intuitive digital exper
 ### [LagosGo](https://github.com/olatunjivictor-creator/LagosGo-UI-UX)
 A self-initiated ride-booking UI/UX concept designed around everyday transportation needs in Lagos.
 
-### NairaNest
+### [NairaNest](https://github.com/olatunjivictor-creator/nairanest-uiux)
 A self-initiated personal finance UI/UX concept focused on budgeting, transactions, and savings goals.
 
 ### Foodify
