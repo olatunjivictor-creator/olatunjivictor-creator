@@ -20,7 +20,7 @@ A self-initiated ride-booking UI/UX concept designed around everyday transportat
 ### [NairaNest](https://github.com/olatunjivictor-creator/nairanest-uiux)
 A self-initiated personal finance UI/UX concept focused on budgeting, transactions, and savings goals.
 
-### Foodify
+### [Foodify](https://github.com/olatunjivictor-creator/-foodify-uiux)
 A self-initiated food delivery UI/UX concept covering the complete journey from food discovery to order tracking.
 
 ## Currently Learning
