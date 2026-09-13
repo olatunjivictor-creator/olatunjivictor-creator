@@ -14,7 +14,7 @@ I'm an aspiring digital professional focused on creating intuitive digital exper
 
 ## Featured Projects
 
-### LagosGo
+### [LagosGo](PASTE-YOUR-COPIED-LAGOSGO-LINK-HERE)
 A self-initiated ride-booking UI/UX concept designed around everyday transportation needs in Lagos.
 
 ### NairaNest
